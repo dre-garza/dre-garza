@@ -2,7 +2,7 @@
 
 **Backend Engineer | Full-Stack Developer**
 
-I am a passionate backend developer with expertise in building scalable REST APIs and full-stack applications. I have been programming for more than 3 years now. I specialize in Python, FastAPI, and RESTful API design, with strong capabilities across the modern web stack.
+Currently I am a masters student attending University of Texas Rio Grande Valley. I am a passionate backend developer with expertise in building scalable REST APIs and full-stack applications. I have been programming for more than 3 years now. I specialize in Python, FastAPI, and RESTful API design, with strong capabilities across the modern web stack.
 
 - 🎯 Focused on backend architecture and API design
 - 🚀 Full-stack development with modern technologies
