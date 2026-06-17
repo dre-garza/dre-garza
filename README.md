@@ -39,5 +39,5 @@ In my free time, I enjoy going to concerts and events, capturing and sharing my 
 
 ## Connect
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dre-garza-000695417)
 - [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andrea.garza20@utrgv.edu)
