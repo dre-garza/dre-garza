@@ -29,7 +29,7 @@ Currently, I am a masters student attending University of Texas Rio Grande Valle
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dre-garza&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9)](https://github.com/dre-garza)
+![GitHub Stats](stats.svg)
 
 
 ## Beyond Code
